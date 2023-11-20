@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CS361_BMI_G12</string>
+    <string name="title">โปรแกรมคำนวณค่าดัชนีมวลกาย</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="bmi">ค่าดัชนีมวลกาย</string>
+    <string name="bmi_rank">ตารางค่าดัชนีมวลกาย</string>
+    <string name="calculator_button">คำนวณ</string>
+    <string name="clear_button" > ล้าง </string>
+    <string name="weight_input">ระบุน้ำหนักของคุณ</string>
+    <string name="height_input">ระบุความสูงของคุณ</string>
+    <string name="bmi_result"></string>
+    <string name="bmi_type"></string>
+    <string name="history">ประวัติการคำนวณ</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="severe_thinness">ต่ำกว่าเกณฑ์ค่อนข้างมาก</string>
+    <string name="moderate_thinness">" ต่ำกว่าเกณฑ์"</string>
+    <string name="normal">ปกติสมส่วน</string>
+    <string name="overweight">ท้วม</string>
+    <string name="obese_class1">อ้วนระดับ 1</string>
+    <string name="obese_class3">อ้วนระดับ 3</string>
+    <string name="obese_class2">อ้วนระดับ 2</string>
+    <string name="mild_thinness">ต่ำกว่าเกณฑ์เล็กน้อย</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name" translatable="false">CS361_BMI_G11</string>
+    <string name="title" translatable="false">BMI CALCULATOR</string>
+    <string name="weight" translatable="false"> Weight (kilogram) </string>
+    <string name="height" translatable="false"> Height (centimeter) </string>
+    <string name="bmi" translatable="false"> BMI </string>
+    <string name="bmi_rank" translatable="false"> Classification </string>
+    <string name="calculator_button" translatable="false"> Calculate </string>
+    <string name="clear_button" translatable="false"> Clear </string>
+    <string name="back" translatable="false"> back </string>
+    <string name="weight_input" translatable="false"> Enter you weight </string>
+    <string name="height_input" translatable="false"> Enter your height </string>
+    <string name="bmi_result" translatable="false"></string>
+    <string name="bmi_type" translatable="false"></string>
+    <string name="weight_history" translatable="false">Weight</string>
+    <string name="bmi_result_history" translatable="false">Classification</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="history" translatable="false">History</string>
+    <string name="severe_thinness" translatable="false"> Severe Thinness </string>
+    <string name="moderate_thinness" translatable="false"> Moderate Thinness </string>
+    <string name="mild_thinness" translatable="false"> Mild Thinness </string>
+    <string name="normal" translatable="false"> Normal </string>
+    <string name="overweight" translatable="false"> Overweight </string>
+    <string name="obese_class1" translatable="false"> Obese Class I </string>
+    <string name="obese_class2" translatable="false"> Obese Class II </string>
+    <string name="obese_class3" translatable="false"> Obese Class III </string>
+    <string name="ff0000" translatable="false">#FF0000</string>
+    <string name="ffa500" translatable="false">#FFA500</string>
+    <string name="ffff00" translatable="false">#FFFF00</string>
+    <string name="_3dec55" translatable="false">#3dec55</string>
+    <string name="_800000" translatable="false">#800000</string>
+
+
+</resources>
